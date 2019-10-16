@@ -126,6 +126,7 @@ function changeEyes() {
     eyes[1].className = "eyes rightEyeLeft";
   }
 }
+
 // 撞死
 function gameOver () {
   clearInterval(timer);
