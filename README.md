@@ -11,8 +11,8 @@
 #### 一、变量声明：
 ```
 var snake = null, // snake的实例
-food = null, // food的实例
-game = null; // game的实例
+  food = null, // food的实例
+  game = null; // game的实例
 ```
 #### 二、Square构造函数
 ##### 1.创建构造函数Square，用于创建蛇身和食物
