@@ -1,9 +1,7 @@
 # 原生JS实现贪吃蛇
 --- 
-<center>
-<img src="https://github.com/Hyung7/Snake/blob/master/pic.gif" width=500 />
-效果图
-</center>
+### 效果图：
+<img src="https://github.com/Hyung7/Snake/blob/master/pic.gif" height=500 />
 
 ---
 ### 大概思路：
